@@ -1,4 +1,4 @@
-# Merhaba, Ben Selim
+# Hi there. I'm Selim.
 
 
 Kaggle: www.kaggle.com/selimsavas16
